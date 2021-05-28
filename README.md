@@ -1,4 +1,5 @@
 # Huffman-Coding
+
 C++ implementation of Huffman Coding.
 
 Takes the text from in.txt.
